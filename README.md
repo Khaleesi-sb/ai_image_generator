@@ -36,7 +36,7 @@ flutter pub get
 3. Create a `.env` file in the root directory:
 
 ```env
-VYRO_API_KEY=your_api_key_here
+AUTH_KEY=your_api_key_here
 ```
 
 4. Run the application:

@@ -50,7 +50,7 @@ flutter run
 Add your API key to the `.env` file:
 
 ```env
-VYRO_API_KEY=your_api_key_here
+AUTH_KEY=your_api_key_here
 ```
 
 Load the environment variables in `main.dart`:
